@@ -1,7 +1,7 @@
 @rem *This file is use to compile c/c++ programs with MingGW*
 @rem *You have to add this to path to execute it everywhere*
 @rem *This needs a single argument*
-@rem *This is not Excption secured*
+@rem *This is not Exception save*
 
 @echo off
   g++ %1
