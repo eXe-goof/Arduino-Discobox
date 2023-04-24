@@ -13,7 +13,7 @@ Arduino_3:
 
 # Java-NotePatternGenerator
 
-Noten Generator ist noch in Arbeit.
+Noten Generator...
 
 This program can create a note pattern for Arduino. Build with Java 8.
 
