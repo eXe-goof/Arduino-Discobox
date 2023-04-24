@@ -5,6 +5,9 @@ Arduino_1:
 
 Arduino_2:
   Bisschen Anspruchsvolleres Programm zum Spielen von Liedern
+  
+Arduino_3:
+  Programm bei dem Inputs während dem Lied möglich sind
 
 
 
